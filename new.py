@@ -1,3 +1,5 @@
 print("hello")
 print("hello")
-a
+print("hello word")
+print("This is new project")
+
